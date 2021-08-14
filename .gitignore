@@ -135,3 +135,8 @@ dmypy.json
 data1.csv
 data2.csv
 .csv
+
+# pdf file
+Feature-Selection_DS.pdf
+.pdf
+
