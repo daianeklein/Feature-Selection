@@ -134,7 +134,7 @@ dmypy.json
 #dataset
 data1.csv
 data2.csv
-.csv
+*.csv
 
 # pdf file
 Feature-Selection_DS.pdf
